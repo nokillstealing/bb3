@@ -1,2 +1,2 @@
-# Bunny Black 3 English Translation.
-Community Translation for BunnyBlack 3
+# Bunny Black 3 Community English Translation.
+
